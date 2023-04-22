@@ -5,7 +5,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5co7vzv8feodu7lvqqap3c8qd&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <div id="header" aling="center">
-  <img src="<iframe src="https://giphy.com/embed/l46Craj343bB2TMSA" width="480" height="292" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/basketball-kobe-bryant-l46Craj343bB2TMSA">via GIPHY</a></p>" width="200" />
+  <img src="https://giphy.com/embed/l46Craj343bB2TMSA" width="480" height="292" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/basketball-kobe-bryant-l46Craj343bB2TMSA">via GIPHY</a></p>" width="200" />
   </div>
   
   
