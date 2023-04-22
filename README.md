@@ -6,6 +6,8 @@
 
 <div>
   <img src="<iframe src="https://giphy.com/embed/l46Craj343bB2TMSA" width="480" height="292" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/basketball-kobe-bryant-l46Craj343bB2TMSA">via GIPHY</a></p>" width="200" />
+  
+  </div>
 <!--
 **PandaHaze/PandaHaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
