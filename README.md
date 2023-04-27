@@ -12,9 +12,7 @@
 <a href="https://www.nba.com/lakers">
 <img src="https://logos-world.net/wp-content/uploads/2020/05/Los-Angeles-Lakers-Symbol.png"
       width="44" /> 
-</a>
-
-**PandaHaze/PandaHaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</a> 
 
 Here are some ideas to get you started:
 
