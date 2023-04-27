@@ -8,9 +8,6 @@
   <img src="https://media.giphy.com/media/KxCC1TEhvUuXKuLgo6/giphy.gif" width="250" />
   </div>
  <br>
-<a href="https://www.asroma.com/en">
-<img src="https://logodetimes.com/times/roma/logo-roma-1536.png"
-      width="34" />  
 </a>
   <br>
 <a href="https://www.nba.com/lakers">
