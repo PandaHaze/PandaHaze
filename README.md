@@ -9,6 +9,7 @@
   </div>
   
   *Equipos Favoritos
+  <br><br>
 </a>
 <a href="https://www.realmadrid.com">
 <img src="https://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg" width="24" />
