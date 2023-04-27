@@ -14,17 +14,17 @@
 </a>
 <a href="https://www.asroma.com/en">
 <img src="https://logodetimes.com/times/roma/logo-roma-1536.png"
-      width="40" />  
+      width="44" />  
 </a>
 <a href="https://www.nba.com/lakers">
 <img src="https://logos-world.net/wp-content/uploads/2020/05/Los-Angeles-Lakers-Symbol.png"
-      width="40" /> 
+      width="44" /> 
 </a>
 <a href="https://www.acmilan.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg" width="24" />
 </a>
 <a href="https://www.nba.com/nets/history/logo-history">
-<img src="https://logodownload.org/wp-content/uploads/2021/04/brooklyn-nets-logo-0-1536x1536.png" width="40" />
+<img src="https://logodownload.org/wp-content/uploads/2021/04/brooklyn-nets-logo-0-1536x1536.png" width="44" />
 </a>
   
 <!--
