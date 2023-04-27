@@ -20,8 +20,8 @@
 <img src="https://logodetimes.com/times/roma/logo-roma-1536.png"
       width="30" />
 </a>
-<a href="https://logos-world.net/wp-content/uploads/2020/05/Los-Angeles-Lakers-Symbol.png">
-<img src="https://www.nba.com/lakers"
+<a href="https://www.nba.com/lakers">
+<img src="https://logos-world.net/wp-content/uploads/2020/05/Los-Angeles-Lakers-Symbol.png"
       width="30" />
 </a>
 <a href="https://www.acmilan.com">
