@@ -10,16 +10,19 @@
   <div id="header" aling="center">
 </a>
 <a href="https://www.realmadrid.com">
-<img src="https://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg" width="24" /> 
+<img src="https://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg" width="24" />
 </a>
+ <br>
 <a href="https://www.asroma.com/en">
 <img src="https://logodetimes.com/times/roma/logo-roma-1536.png"
       width="34" />  
 </a>
+  <br>
 <a href="https://www.nba.com/lakers">
 <img src="https://logos-world.net/wp-content/uploads/2020/05/Los-Angeles-Lakers-Symbol.png"
       width="44" /> 
 </a>
+<br>
 <a href="https://www.acmilan.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg" width="24" />
 </a>
