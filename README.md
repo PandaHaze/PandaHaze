@@ -9,7 +9,27 @@
   </div>
   
   
-  
+  <a href="https://universitario.pe">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Escudo_del_Club_Universitario_de_Deportes.svg"
+      width="24" />
+</a>
+<a href="https://www.realmadrid.com">
+<img src="https://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg" width="24" />
+</a>
+<a href="https://www.asroma.com/en">
+<img src="https://logodetimes.com/times/roma/logo-roma-1536.png"
+      width="24" />
+</a>
+<a href="https://logos-world.net/wp-content/uploads/2020/05/Los-Angeles-Lakers-Symbol.png">
+<img src="https://www.nba.com/lakers"
+      width="24" />
+</a>
+<a href="https://www.acmilan.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg" width="24" />
+</a>
+<a href="https://www.nba.com/nets/history/logo-history">
+<img src="https://logodownload.org/wp-content/uploads/2021/04/brooklyn-nets-logo-0-1536x1536.png" width="24" />
+</a>
   
 <!--
 **PandaHaze/PandaHaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
