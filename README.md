@@ -24,7 +24,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg" width="24" />
 </a>
 <a href="https://www.nba.com/nets/history/logo-history">
-<img src="https://logodownload.org/wp-content/uploads/2021/04/brooklyn-nets-logo-0-1536x1536.png" width="34" />
+<img src="https://logodownload.org/wp-content/uploads/2021/04/brooklyn-nets-logo-0-1536x1536.png" width="39" />
 </a>
   </div>
 <!--
