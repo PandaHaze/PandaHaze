@@ -7,7 +7,7 @@
 <div id="header" aling="center">
   <img src="https://media.giphy.com/media/KxCC1TEhvUuXKuLgo6/giphy.gif" width="250" />
   </div>
-  
+  <div id="header" aling="center">
 </a>
 <a href="https://www.realmadrid.com">
 <img src="https://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg" width="24" /> 
@@ -26,7 +26,7 @@
 <a href="https://www.nba.com/nets/history/logo-history">
 <img src="https://logodownload.org/wp-content/uploads/2021/04/brooklyn-nets-logo-0-1536x1536.png" width="44" />
 </a>
-  
+  </div>
 <!--
 **PandaHaze/PandaHaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
