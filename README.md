@@ -14,7 +14,7 @@
 </a>
 <a href="https://www.asroma.com/en">
 <img src="https://logodetimes.com/times/roma/logo-roma-1536.png"
-      width="44" />  
+      width="34" />  
 </a>
 <a href="https://www.nba.com/lakers">
 <img src="https://logos-world.net/wp-content/uploads/2020/05/Los-Angeles-Lakers-Symbol.png"
