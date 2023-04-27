@@ -18,11 +18,11 @@
 </a>
 <a href="https://www.asroma.com/en">
 <img src="https://logodetimes.com/times/roma/logo-roma-1536.png"
-      width="24" />
+      width="30" />
 </a>
 <a href="https://logos-world.net/wp-content/uploads/2020/05/Los-Angeles-Lakers-Symbol.png">
 <img src="https://www.nba.com/lakers"
-      width="24" />
+      width="30" />
 </a>
 <a href="https://www.acmilan.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg" width="24" />
