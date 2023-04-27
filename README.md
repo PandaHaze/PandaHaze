@@ -9,10 +9,6 @@
   </div>
   
   *Equipos Favoritos
-  
-<a href="https://universitario.pe">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Escudo_del_Club_Universitario_de_Deportes.svg"
-      width="24" />
 </a>
 <a href="https://www.realmadrid.com">
 <img src="https://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg" width="24" />
