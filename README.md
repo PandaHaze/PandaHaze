@@ -9,7 +9,6 @@
   </div>
  <br>
 </a>
-  <br>
 <a href="https://www.nba.com/lakers">
 <img src="https://logos-world.net/wp-content/uploads/2020/05/Los-Angeles-Lakers-Symbol.png"
       width="44" /> 
