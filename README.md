@@ -26,24 +26,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 **Soccer fan clubs：**
-<a href="https://universitario.pe">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Escudo_del_Club_Universitario_de_Deportes.svg"
-      width="24" />
+
 </a>
 <a href="https://www.realmadrid.com">
 <img src="https://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg" width="24" />
 </a>
-<a href="https://www.cariverplate.com.ar">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/River_Plate_logo.svg"
-      width="24" />
-</a>
-<a href="https://www.cruzazulfc.com.mx">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Escudo_del_Cruz_Azul_AC.svg"
-      width="24" />
-</a>
 <a href="https://www.acmilan.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg" width="24" />
-</a>
-<a href="https://www.chelseafc.com">
-<img src="https://upload.wikimedia.org/wikipedia/sco/c/cc/Chelsea_FC.svg" width="24" />
 </a>
