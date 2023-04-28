@@ -14,7 +14,7 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/05/Los-Angeles-Lakers-Symbol.png"
       width="44" /> 
 </a> 
-
+<br>
 
 Here are some ideas to get you started:
 
@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
-
 ** Soccer Fan Clubs：**
 </a>
 <a href="https://www.realmadrid.com">
