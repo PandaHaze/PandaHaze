@@ -8,6 +8,7 @@
   <img src="https://media.giphy.com/media/KxCC1TEhvUuXKuLgo6/giphy.gif" width="250" />
   </div>
  <br>
+ ** Basquet Fan Club：**
 </a>
 <a href="https://www.nba.com/lakers">
 <img src="https://logos-world.net/wp-content/uploads/2020/05/Los-Angeles-Lakers-Symbol.png"
@@ -25,8 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
-**Soccer fan clubs：**
-
+** Soccer Fan Clubs：**
 </a>
 <a href="https://www.realmadrid.com">
 <img src="https://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg" width="24" />
